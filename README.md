@@ -18,4 +18,4 @@ this is for practise
 
 ## Git Log Screenshot
 
-![Git Log](Screenshot 2026-03-09 005036.png)
+![Git Log](Screenshot%202026-03-09%20005036.png)
