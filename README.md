@@ -16,3 +16,6 @@ some change is there for git hub practise
 # git-practise1
 this is for practise
 
+## Git Log Screenshot
+
+![Git Log](Screenshot 2026-03-09 005036.png)
